@@ -1,7 +1,7 @@
+package generic;
+
 import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class GenericEx {
 
@@ -31,6 +31,11 @@ public class GenericEx {
         System.out.println();
         List<String> stringList = Arrays.asList("2022년" ,"새해 복", "많이 받았으면" ,"좋겠네");
         questionList(stringList);
+
+        List<String> sdf = Arrays.asList("1","3");
+
+
+
 
 
 

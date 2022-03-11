@@ -1,3 +1,5 @@
+package generic;
+
 import java.io.Serializable;
 
 public class Pizza extends Eat implements Serializable {

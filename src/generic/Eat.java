@@ -1,3 +1,5 @@
+package generic;
+
 public class Eat {
 
     int kcal;
