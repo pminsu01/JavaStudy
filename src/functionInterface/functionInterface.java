@@ -10,8 +10,12 @@ public class functionInterface {
 
     public static void main(String[] arg){
 
-        PredicateEx predicateEx = new PredicateEx();
-        predicateEx.PredicateRunMethod();
+//        PredicateEx predicateEx = new PredicateEx();
+//        predicateEx.PredicateRunMethod();
+
+
+        ConsumerEx consumerEx = new ConsumerEx();
+        consumerEx.ConsumerMethod();
 
     }
 
