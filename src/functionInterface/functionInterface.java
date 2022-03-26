@@ -15,7 +15,10 @@ public class functionInterface {
 
 
         ConsumerEx consumerEx = new ConsumerEx();
-        consumerEx.ConsumerMethod();
+        consumerEx.consumerMethod();
+
+
+
 
     }
 
